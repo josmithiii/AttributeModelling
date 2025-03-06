@@ -1,4 +1,5 @@
-Lines lost at top.  I think the missing commands and responses are these:
+[ Lines were lost at the top due to Cursor's 1000-line limit for Terminals.
+  I think the missing commands and responses are these: ]
   1. code - Your initial command to start exploring the codebase
   2. overview - You asked for an overview of the AttributeModelling project
   3. What tests can we run? - You asked about available tests (some of this one caught below)

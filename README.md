@@ -2,6 +2,10 @@
 
 ## AttributeModelling
 
+### JOS Fork
+Additional files `test_*` added for simple tests and experiments.
+See [./ClaudeCodeSession1.txt](./ClaudeCodeSession1.txt) for details.
+
 ### About
 Code for the paper: **Latent Space Regularization for Explicit Control of Musical Attributes**. Implements the models and regularization technique to encode selected musical attributes along specific dimensions of the latent space of a VAE (Variational Auto-Encoder)-based model trained to reconstruct individual measures of music. 
 

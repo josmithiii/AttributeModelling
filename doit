@@ -1,0 +1,2 @@
+conda activate env_pytorch_312 && pip install music21 tqdm scikit-learn matplotlib 
+PYTHONPATH=$PYTHONPATH:/Users/jos/w
